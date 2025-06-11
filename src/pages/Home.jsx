@@ -2,19 +2,19 @@ import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
 import { FaFire, FaHeartbeat, FaDumbbell, FaClock, FaCheck, FaArrowRight, FaPhone, FaEnvelope, FaMapMarkerAlt } from 'react-icons/fa';
-import heroImage from '../assets/images/img2.jpg';
-import trainerImg from '../assets/images/img17.jpg';
-import class1 from '../assets/images/img7.jpg';
-import class2 from '../assets/images/img9.jpg';
-import class3 from '../assets/images/img14.jpg';
-import img1 from '../assets/images/img1.jpg';
-import img2 from '../assets/images/img2.jpg';
-import img3 from '../assets/images/img3.jpg';
-import img4 from '../assets/images/img4.jpg';
-import img5 from '../assets/images/img5.jpg';
-import img6 from '../assets/images/img6.jpg';
-import contactImage from '../assets/images/img23.jpg';
-import aboutImage from '../assets/images/img12.jpg'; // Updated about image
+import heroImage from '../assets/Images/img2.jpg';
+import trainerImg from '../assets/Images/img17.jpg';
+import class1 from '../assets/Images/img7.jpg';
+import class2 from '../assets/Images/img9.jpg';
+import class3 from '../assets/Images/img14.jpg';
+import img1 from '../assets/Images/img1.jpg';
+import img2 from '../assets/Images/img2.jpg';
+import img3 from '../assets/Images/img3.jpg';
+import img4 from '../assets/Images/img4.jpg';
+import img5 from '../assets/Images/img5.jpg';
+import img6 from '../assets/Images/img6.jpg';
+import contactImage from '../assets/Images/img23.jpg';
+import aboutImage from '../assets/Images/img12.jpg'; // Updated about image
 
 const HomePage = () => {
   // BMI Calculator State
