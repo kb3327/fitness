@@ -1,16 +1,16 @@
 import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
-import service1 from '../assets/images/service1.svg';
-import service2 from '../assets/images/service2.svg';
-import service3 from '../assets/images/service3.svg';
-import service4 from '../assets/images/service4.svg';
-import service5 from '../assets/images/service5.svg';
-import service6 from '../assets/images/service6.svg';
-import service7 from '../assets/images/service7.svg';
-import service8 from '../assets/images/service8.svg';
-import service9 from '../assets/images/service9.svg';
-import serviceHero from '../assets/images/img15.jpg'; // Hero section background image
+import service1 from '../assets/Images/service1.svg';
+import service2 from '../assets/Images/service2.svg';
+import service3 from '../assets/Images/service3.svg';
+import service4 from '../assets/Images/service4.svg';
+import service5 from '../assets/Images/service5.svg';
+import service6 from '../assets/Images/service6.svg';
+import service7 from '../assets/Images/service7.svg';
+import service8 from '../assets/Images/service8.svg';
+import service9 from '../assets/Images/service9.svg';
+import serviceHero from '../assets/Images/img15.jpg'; // Hero section background image
 
 const services = [
   {
