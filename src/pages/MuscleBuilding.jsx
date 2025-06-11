@@ -1,4 +1,4 @@
-import React from 'react';
+Bimport React from 'react';
 import img1 from '../assets/Images/img16.jpg'; // Replace with an ab workout-relevant image
 
 const ServiceDetails = () => {
