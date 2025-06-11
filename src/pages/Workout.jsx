@@ -4,7 +4,7 @@ import img3 from '../assets/Images/img3.jpg'; // Meal prep image
 import img7 from '../assets/Images/img7.jpg'; // Protein shake image
 import img11 from '../assets/Images/img11.jpg'; // Water bottle image
 import img14 from '../assets/Images/img14.jpg'; // Supplements image
-import img19 from '../assets/images/img19.jpg'; // Happy athlete image
+import img19 from '../assets/Images/img19.jpg'; // Happy athlete image
 
 const WorkoutNutritionGuide = () => {
   const [activeTab, setActiveTab] = useState('why');
