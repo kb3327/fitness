@@ -1,7 +1,7 @@
 import { motion } from 'framer-motion';
 import { FaFire, FaHeartbeat, FaDumbbell, FaClock, FaCheck } from 'react-icons/fa';
-import classHero from '../assets/images/img3.jpg';
-import trainerImg from '../assets/images/img17.jpg';
+import classHero from '../assets/Images/img3.jpg';
+import trainerImg from '../assets/Images/img17.jpg';
 
 const levels = [
   {
