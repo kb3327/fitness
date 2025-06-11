@@ -1,9 +1,9 @@
 import { motion } from 'framer-motion';
 import { FaDumbbell, FaHeartbeat, FaAward, FaUsers } from 'react-icons/fa';
-import aboutImage from '../assets/images/img5.jpg'; // Side image
-import facility1 from '../assets/images/img11.jpg'; // Training facility images
-import facility2 from '../assets/images/img12.jpg';
-import facility3 from '../assets/images/img13.jpg';
+import aboutImage from '../assets/Images/img5.jpg'; // Side image
+import facility1 from '../assets/Images/img11.jpg'; // Training facility images
+import facility2 from '../assets/Images/img12.jpg';
+import facility3 from '../assets/Images/img13.jpg';
 
 const AboutUs = () => {
   const stats = [
